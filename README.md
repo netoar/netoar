@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @netoar
-- 👀 I’m interested in ... digging deeper on the Sofware through JavaScript, Node.js and Python while I read my cozy mistery novels
+- 👀 I’m interested in ... digging deeper on the Sofware world through JavaScript, Node.js and Python while I read my cozy mistery novels
 - 🌱 I’m currently learning ... JavaScript
 - 🖥 I'm currently working with SAP S/4 Hana and SAP UI5 with Fiori Apps
 - 💞️ I’m looking to collaborate on ... <insert here an idea💡>
